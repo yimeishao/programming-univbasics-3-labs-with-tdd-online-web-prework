@@ -1,1 +1,1 @@
-first_number = Integer(1)
+first_number = 5
